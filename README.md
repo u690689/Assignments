@@ -5,3 +5,4 @@ this repository contains my assignments
 [week3_classwork](https://github.com/u690689/Assignments/blob/master/week3.ipynb)
 [assignment4](https://github.com/u690689/Assignments/blob/master/assignment4.ipynb)
 [assignment1_for_R](https://github.com/u690689/Assignments/blob/master/Assignment%201%20for%20R.ipynb)
+[assignment2 for R](https://github.com/u690689/Assignments/blob/master/Graded_assignment_2.ipynb)
