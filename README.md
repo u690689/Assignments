@@ -9,4 +9,4 @@ this repository contains my assignments
 [Final Python Assignment](https://github.com/u690689/Assignments/blob/master/exam_june_7_2018.ipynb)
 [Final Assignment R](https://github.com/u690689/Assignments/blob/master/Exam_student-Vik.ipynb)
 [Sept 21 Python Exam](https://github.com/u690689/Assignments/blob/master/My%20exam%20Python.ipynb)
-[Sept 21 R exam]{https://github.com/u690689/Assignments/blob/master/My%20exam%20R.ipynb)
+[Sept 21 R exam](https://github.com/u690689/Assignments/blob/master/My%20exam%20R.ipynb)
